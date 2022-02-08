@@ -1,0 +1,32 @@
+ .header .nav a {
+    text-decoration: none;
+    border: 2px solid aqua;
+    border-radius: 50em;
+    padding: 15px 30px;
+    margin: 0 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 33%;
+}
+a:hover {
+    background-color: aqua;
+    color: white;
+}
+.header .nav {
+    list-style: none;
+    padding: 0px;
+    display: flex;
+    float: right;
+    justify-content: space-between;
+
+}
+.body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+    display: flex;
+    height: 100%;
+}
+.site_wrap {
+    background-color: black;
+}
