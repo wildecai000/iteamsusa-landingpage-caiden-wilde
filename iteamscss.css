@@ -132,23 +132,29 @@ a:hover {
   from {opacity: .4}
   to {opacity: 1}
 }
-.pictures {
-    display: grid;
-    column-gap: 100px;
-    padding: 25px;
-    align-items: center;
-    justify-content: space-around;
-    grid-column-start: 1;
-    grid-column-end: 2;
-}
  .grid-item1 {
     width: 40%;
 }
  .grid-item2 {
     width: 40%;
 }
+.grid-item3 {
+  width: 40%;
+}
+.grid-item4 {
+  width: 40%;
+}
+.grid-item5 {
+  width: 40%;
+}
+.grid-item6 {
+  width: 40%;
+}
+
 .table {
 border: 15px red;
+column-gap: 10px;
+float: right;
 }
 .Cert {
     text-align: center;
