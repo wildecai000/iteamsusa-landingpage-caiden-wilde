@@ -153,8 +153,7 @@ a:hover {
 
 .table {
 border: 15px red;
-column-gap: 10px;
-float: right;
+justify-content: center;
 }
 .Cert {
     text-align: center;
