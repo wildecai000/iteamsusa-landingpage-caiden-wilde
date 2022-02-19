@@ -154,7 +154,8 @@ a:hover {
 .table {
 border: 15px red;
 column-gap: 10px;
-float: right;
+width: 20%;
+height: 100%;
 }
 .Cert {
     text-align: center;
