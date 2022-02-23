@@ -133,22 +133,23 @@ a:hover {
   to {opacity: 1}
 }
  .grid-item1 {
-    width: 50%;
+    width: 350px;
 }
  .grid-item2 {
-    width: 50%;
+   width: 350px;
 }
 .grid-item3 {
-  width: 50%;
+  width: 350px;
 }
 .grid-item4 {
-  width: 50%;
+  width: 350px;
 }
 .grid-item5 {
-  width: 50%;
+  width: 350px;
+  
 }
 .grid-item6 {
-  width: 50%;
+  width: 350px;
 }
 
 .table {
@@ -156,6 +157,8 @@ border: 15px red;
 column-gap: 10px;
 width: 20%;
 height: 100%;
+display: flex;
+align-items: center;
 }
 .Cert {
     text-align: center;
